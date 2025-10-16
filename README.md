@@ -122,13 +122,14 @@ git push origin <your_branch_name>
 
 <h2>Contributing Guidelines📑</h2>
 
-Read our [Contributing Guidelines](https://github.com/Rakesh9100/CalcDiverse/blob/main/.github/CONTRIBUTING_GUIDELINES.md) to learn about our development process, how to propose bugfixes and improvements, and how to build to CalcDiverse.
+Read our [Contributing Guidelines] to learn about our development process, how to propose bugfixes and improvements, and how to build to CalcDiverse.
 
 <!-------------------------------------------------->
 
 <h2>Code Of Conduct📑</h2>
 
-This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/Rakesh9100/CalcDiverse/blob/main/.github/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project and everyone participating in it is governed by the [Code of Conduct](https:github/CODE_OF_CONDUCT.md).
+ By participating, you are expected to uphold this code.
 
 <!-------------------------------------------------->
 
@@ -141,7 +142,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <a href="https://iwoc3.live/"><img src="https://github.com/user-attachments/assets/31929aa2-68c1-4621-9a25-85cd2b5a9616" height="140px" width="140px" alt="IWOC2025"></a><br><sub><b>IWOC 2k25</b></sub>
 </td>
 <td align="center">
-<a href="https://www.socialwinterofcode.com/"><img src="https://github.com/Rakesh9100/Beautiify/assets/73993775/9235952f-9062-4352-992d-eb34e4d60283" height="140px" width="180px" alt="SWOC2025"></a><br><sub><b>SWOC 2k25</b></sub>
+<a href="https://www.socialwinterofcode.com/"><img src="" height="140px" width="180px" alt="SWOC2025"></a><br><sub><b>SWOC 2k25</b></sub>
 </td>
 </tr>
 
@@ -150,18 +151,10 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/user-attachments/assets/cb303f6e-e912-4618-9f5b-7f36c1b8b3a6" height="140px" width="140px" alt="KWOC2024"></a><br><sub><b>KWOC 2k24</b></sub>
 </td>
 <td align="center">
-<a href="https://gssoc.girlscript.tech/"><img src="https://github.com/Rakesh9100/CalcDiverse/assets/73993775/910a2a16-0906-4234-bc7f-90f65b259527" height="140px" width="140px" alt="GSSOC2024"></a><br><sub><b>GSSOC 2k24</b></sub>
+<a href="https://gssoc.girlscript.tech/"><img src="" height="140px" width="140px" alt="GSSOC2024"></a><br><sub><b>GSSOC 2k24</b></sub>
 </td>
-<td align="center">
-<a href="https://iwoc.codes/"><img src="https://github.com/Rakesh9100/CalcDiverse/assets/73993775/88ffb36d-4488-431f-84d1-92cc88cb045b" height="140px" width="140px" alt="IWOC2024"></a><br><sub><b>IWOC 2k24</b></sub>
-</td>
-<td align="center">
-<a href="https://www.jwoc.tech/"><img src="https://github.com/Rakesh9100/CalcDiverse/assets/73993775/9bc792d6-a8f5-4ce0-b3e4-8212cb3a1584" height="140px" width="150px" alt="JWOC2024"></a><br><sub><b>JWOC 2k24</b></sub>
-</td>
-<td align="center">
-<a href="https://www.socialwinterofcode.com/"><img src="https://github.com/Rakesh9100/CalcDiverse/assets/73993775/25eaca50-f883-481c-a531-8d1ce9cf4b66" height="140px" width="180px" alt="SWOC2024"></a><br><sub><b>SWOC 2k24</b></sub>
-</td>
-</tr>
+
+
 
 </table>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -173,24 +166,17 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/Rakesh9100/"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="140px" width="140px" alt="Rakesh Roshan"></a><br><sub><b>Rakesh Roshan</b><br><a href="https://www.linkedin.com/in/rakesh-roshan-9100/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
+<a href="https://github.com/sachingiri58"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="140px" width="140px" alt="Rakesh Roshan"></a><br><sub><b>Sachin Giri</b><br><a href="https://www.linkedin.com/in/sachin-giri-657b98221/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
 </td>
 </tr>
 </table>
 
 <!-------------------------------------------------->
 
-<h2>Project Contributors🫂</h2>
 
-<a href="https://github.com/rakesh9100/calcdiverse/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rakesh9100/calcdiverse" />
-</a>
 
 <!-------------------------------------------------->
 
-<h2>Contributing is fun🧡</h2>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-<h3>Contributions of any kind from anyone are always welcome🌟!!</h3>
 <h3>Give it a 🌟 if you ❤ this project. Happy Coding👨‍💻</h3>
 <p align="right">(<a href="#top">back to top</a>)</p>

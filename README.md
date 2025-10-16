@@ -46,22 +46,24 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 
 <h3>Live Project --> (https://calcdiverse.netlify.app)</h3>
 
+
+![image](./assets/images/Home.png)<br><br>
 <h3>Home/Main Page :-</h3>
 
 ![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/02b2c6ae-663c-42c0-84f9-f5fe449423f9)<br><br>
 <h3>Calculators Page :-</h3>
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/749a318e-fe90-4ba1-bfd2-4d18c1d97be6)<br><br>
+![image](./assets/images/about.png)<br><br>
 <h3>About Page :-</h3>
 
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/f866c372-9b21-428e-a9b1-41b7b8907521)<br><br>
+![image](![image](./assets/images/FAQ.png)<br><br>)<br><br>
 <h3>FAQ Page :-</h3>
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/6b329d86-4ea1-4fc5-833f-08edf80b0459)<br><br>
+![image](![image](./assets/images/contact.png)<br><br>)<br><br>
 <h3>Contact Page :-</h3>
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/c97c96ff-4468-44bf-b01a-f8f944d07b1e)
+![image](![image](./assets/images/contact.png)
 <br><br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,7 +77,7 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 git clone https://github.com/<your-github-username>/CalcDiverse.git
 ```
 - Open `index.html` in your browser.
-- View the [Live Project](https://calcdiverse.netlify.app/) here.
+- View the [Live Project](" ") here.
 - Raise an issue if you find a bug or add a feature.
 - Wait for the issue to be assigned and proceed only after the issue is assigned to you.
 - Add your codes :-
@@ -147,12 +149,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 </tr>
 
 <tr>
-<td align="center">
-<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/user-attachments/assets/cb303f6e-e912-4618-9f5b-7f36c1b8b3a6" height="140px" width="140px" alt="KWOC2024"></a><br><sub><b>KWOC 2k24</b></sub>
-</td>
-<td align="center">
-<a href="https://gssoc.girlscript.tech/"><img src="" height="140px" width="140px" alt="GSSOC2024"></a><br><sub><b>GSSOC 2k24</b></sub>
-</td>
+
 
 
 

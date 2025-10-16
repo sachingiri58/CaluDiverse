@@ -23,6 +23,4 @@ The Bayesian Theorem Calculator is a web application designed to calculate the p
 3. **Result Display:**
    - The application displays the calculated probability of A given B (P(A|B)).
 
-## Screenshots :-
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/142514166/7b5a8c4a-82ec-47db-988c-9d1bb72a60f1)

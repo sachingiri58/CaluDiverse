@@ -14,6 +14,3 @@ In this new age calculator, we can check age in real time. The real-time time an
 - CSS
 - JavaScript
 
-## Screenshots :-
-
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/09651025-43d7-4cca-bcc8-ef27023765ed)

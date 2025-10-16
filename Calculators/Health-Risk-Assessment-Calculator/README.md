@@ -10,6 +10,3 @@ This calculator can be used to assess an individual's risk factors for common he
 - CSS
 - JavaScript
 
-## Screenshots :-
-
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/a12761cb-4cdb-4a57-b0bc-454f6900afed)

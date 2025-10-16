@@ -12,6 +12,3 @@ For example, when 107 is given:<br>
 - CSS
 - JavaScript
 
-## Screenshots :-
-
-![image](https://github.com/user-attachments/assets/011a1bd7-8efc-4de3-9365-c03e4f239c00)

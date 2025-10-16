@@ -14,17 +14,5 @@ As the name suggest this is a Calculator which will help you calculate the resis
 
 - Gives the theoretical reistance value of a given resistor.
 
-## Screenshots :-
 
-![Project demo 1](./assets/demo.png)
----
-![Project demo 2](./assets/demo1.png)
----
-![Project demo 3](./assets/demo2.png)
----
-![Project demo 4](./assets/demo3.png)
----
-![Project demo 5](./assets/demo4.png)
----
-![Project demo 6](./assets/demo5.png)
----
+

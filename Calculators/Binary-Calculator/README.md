@@ -31,8 +31,4 @@ This web application allows you to perform various binary operations on given bi
 - **NOT Operator**: Perform a bitwise NOT operation to invert the bits of a binary number.
 - **Binary To Gray Operator**: Convert a binary number to its corresponding Gray code.
 
-## Screenshots :-
 
-![image](https://github.com/user-attachments/assets/a78d6cfd-87ee-4c3f-8a2b-ad25486c7e1d)
-
-![image](https://github.com/user-attachments/assets/397168f3-15c3-46e7-9316-470b79dbaff6)

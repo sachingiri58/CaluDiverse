@@ -10,6 +10,3 @@ This Calculator is used to calculate the real and imaginary roots of a given pol
 - CSS
 - JavaScript
 
-## Screenshots :-
-
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/142529986/054ad35e-88ad-41f2-b235-0d25b7b65bfb)

@@ -10,6 +10,4 @@ This calculator evaluates the values of the probability mass function and probab
 - CSS
 - JavaScript
 
-## Screenshots :-
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/63a8e177-938b-4d74-a068-8b2d70a3ec25)

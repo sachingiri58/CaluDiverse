@@ -16,6 +16,4 @@ Working formula:- H = (K* A *(T<sub>1</sub>-T<sub>2</sub>)*t)/L
 - Takes user input of thermal conductivity,length,cross-sectional area, temperatures of the two regions and time span of heat transfer in SI units.
 - Displays the calculated heat transferred (in joules).
 
-## Screenshots :-
 
-![image](https://github.com/user-attachments/assets/292b4795-916c-44f6-921b-92134efb8a08)

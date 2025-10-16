@@ -16,13 +16,3 @@ After entering the required data, the calculator processes the information and d
 - CSS
 - JavaScript
 
-## Screenshots :-
-
-### 1. FCFS
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/146326636/15fc8124-9e24-41a9-a8a1-420da62ad46b)
-
-### 2. SJF
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/146326636/18e8f91f-1020-4886-9427-970df80112f8)
-
-### 3. RR
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/146326636/fadb0a7d-4a1b-44e8-99b2-701dfc08ea21)

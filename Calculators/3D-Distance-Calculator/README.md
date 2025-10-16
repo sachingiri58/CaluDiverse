@@ -16,6 +16,4 @@ This calculator calculates the distance between 2 points (up to 3 decimal places
 - Calculation of the Euclidean distance between the points.
 - Clear and intuitive user interface for ease of use.
 
-## Screenshots :-
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/9b596292-24af-424f-b94d-fd7dde37b1d6)

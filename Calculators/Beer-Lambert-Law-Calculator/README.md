@@ -47,6 +47,3 @@ It allows users to calculate the absorbance (\( A \)) of a solution based on:
   A = \varepsilon \cdot c \cdot l = 5000 \cdot 0.02 \cdot 1 = 100
   \]
 
-## Screenshots :-
-
-![image](https://github.com/user-attachments/assets/9988db82-769e-4d6c-95f7-b2f0ed5b3b45)

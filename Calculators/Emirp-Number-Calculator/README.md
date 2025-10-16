@@ -15,6 +15,3 @@ The Emirp Number Calculator is a web application that allows users to check if a
 Check Single Emirp Number: Users can input a single number to check if it is an Emirp number.
 Find Emirp Numbers in Range: Users can input a range of numbers to find all Emirp numbers within that range.
 
-## Screenshots :-
-
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/c5bcc59a-772f-41d5-9eb0-b97d1f563fe7)

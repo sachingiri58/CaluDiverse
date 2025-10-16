@@ -26,6 +26,4 @@ This Cryptocurrency Calculator helps users convert the price of various cryptocu
 
 Use this calculator to stay updated with the current cryptocurrency market and make informed decisions for your investments.
 
-## Screenshots :-
 
-![image](https://github.com/user-attachments/assets/2a8b1c37-f43b-49ca-98c3-e4e2b3ab16d1)

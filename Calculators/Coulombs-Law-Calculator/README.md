@@ -50,6 +50,3 @@ The value of \( k \) (Coulomb's constant) is also displayed:
   F = \frac{k \cdot q_1 \cdot q_2}{r^2} = \frac{8.987 \times 10^9 \cdot 2 \cdot 3}{0.5^2} = 2.157 \times 10^{11} \, \text{N}
   \]
 
-## Screenshots :-
-
-![image](https://github.com/user-attachments/assets/5ebb2959-94a2-4be8-bbe3-72fac99e44d5)

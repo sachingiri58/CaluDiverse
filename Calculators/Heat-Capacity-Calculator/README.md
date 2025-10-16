@@ -46,6 +46,3 @@ Where:
 
 The specific heat capacity will be displayed below the button.
 
-## ScreenShots :-
-
-![image](https://github.com/user-attachments/assets/80ec9244-70ad-4dbb-b93e-64e857a9c5f6)

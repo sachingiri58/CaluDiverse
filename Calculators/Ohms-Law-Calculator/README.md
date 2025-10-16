@@ -28,4 +28,3 @@ The calculator will compute the third value and power automatically.
 
 ## Screenshots :-
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/09df6203-1503-4cf0-a285-18912c0414b2)

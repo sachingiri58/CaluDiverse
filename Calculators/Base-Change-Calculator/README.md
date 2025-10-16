@@ -23,6 +23,4 @@ The Base Change Calculator is a web-based application that allows users to conve
 3. Output Base: `10`
 4. Result: `10`
 
-## Screenshots :-
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/6d79d2fc-755d-469b-ac47-a1598fcc1bb2)

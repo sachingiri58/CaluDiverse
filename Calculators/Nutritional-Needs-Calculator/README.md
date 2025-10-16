@@ -33,6 +33,3 @@ To determine the nutritional needs recommendations for a 30-year-old male who we
 
 ## Screenshots :-
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/118645569/130d793b-808d-4982-a93c-464b81b806d6)
-
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/118645569/ed2c7dc8-ab1e-4b2a-a1b0-b4d0b5b60a43)

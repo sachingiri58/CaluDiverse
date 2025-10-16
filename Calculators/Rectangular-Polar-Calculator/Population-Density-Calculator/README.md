@@ -16,6 +16,4 @@ A simple web-based Population Density Calculator that allows users to calculate 
 - Easy-to-use command-line interface.
 - You can reset the calculation to starting.
 
-## Screenshots :-
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/c130627a-378e-4036-aabf-516f967f14cb)

@@ -10,12 +10,4 @@ This calculator will help you calculate your basic arithmetic calculations. This
 - CSS
 - JavaScript
 
-## Screenshots :-
 
-### Dark Mode:
-
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/94bca16d-9f52-47fb-a592-fb0a453f3bbb)
-<br><br>
-
-### Light Mode:
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/22827541-7d26-40a1-b495-4e6d59dec584)

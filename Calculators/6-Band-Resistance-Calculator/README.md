@@ -15,6 +15,4 @@ This is a calculator that will help you calculate the resistance value by inputt
 - Gives the theoretical resistance value of a given resistor.
 - The calculator is responsive also and can be viewed on any device.
 
-## Screenshots :-
 
-![image](https://github.com/user-attachments/assets/bf49c92f-34e4-4ab3-a5c2-ef2b6edd62ae)

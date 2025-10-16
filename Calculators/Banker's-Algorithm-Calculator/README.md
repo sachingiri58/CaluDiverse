@@ -11,6 +11,3 @@ A Banker's Algorithm Calculator is a tool designed to determine the safe sequenc
 - JavaScript
 - Bootstrap
 
-## Screenshots :-
-
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/c016ce66-2850-4c52-8cac-4c58f84ad9c0)

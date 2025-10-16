@@ -2,22 +2,6 @@
 <!-------------------------------------------------->
 <div align="center">
 <p>
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/04e17044-20bb-45e0-8c38-1ec4b63a846c/deploy-status)](https://app.netlify.com/sites/calcdiverse/deploys)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Rakesh9100%2FCalcDiverse%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/Rakesh9100/CalcDiverse)
-![GitHub Repo stars](https://img.shields.io/github/stars/Rakesh9100/CalcDiverse)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Rakesh9100/CalcDiverse)
-![GitHub repo size](https://img.shields.io/github/repo-size/Rakesh9100/CalcDiverse)
-![GitHub total lines](https://sloc.xyz/github/Rakesh9100/CalcDiverse)
-![Github](https://img.shields.io/github/license/Rakesh9100/CalcDiverse)
-![GitHub issues](https://img.shields.io/github/issues/Rakesh9100/CalcDiverse)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Rakesh9100/CalcDiverse)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Rakesh9100/CalcDiverse)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Rakesh9100/CalcDiverse)
 </p>
 </div>
 
@@ -70,8 +54,6 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 ![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/749a318e-fe90-4ba1-bfd2-4d18c1d97be6)<br><br>
 <h3>About Page :-</h3>
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/11fff9d4-0069-441e-8450-95cc7b95cddf)<br><br>
-<h3>Contributors Page :-</h3>
 
 ![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/f866c372-9b21-428e-a9b1-41b7b8907521)<br><br>
 <h3>FAQ Page :-</h3>

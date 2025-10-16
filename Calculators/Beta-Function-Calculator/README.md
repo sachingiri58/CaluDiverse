@@ -10,6 +10,3 @@ For solving sums of multivariate calculus, many college students including mysel
 - CSS
 - JavaScript
 
-## Screenshots :-
-
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/d936053b-52e9-4dd6-9d28-50eca136b7d5)

@@ -24,6 +24,4 @@ This calculator calculates the speed of a cyclist based on pedal effort, gear se
 3. Choose the **Terrain Type**.
 4. Click **Calculate** to display the speed.
 
-## Screenshots :-
 
-![image](https://github.com/user-attachments/assets/f5dc28ad-b374-4bb5-a81f-b23ecc482e09)

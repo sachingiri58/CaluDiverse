@@ -11,6 +11,4 @@ This calculator will help you calculate important parameters of chemical kinetic
 - CSS
 - JavaScript
 
-## Screenshots :-
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/b3f38481-e90c-4355-90fd-7ecca8a1e721)

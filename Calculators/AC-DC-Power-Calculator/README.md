@@ -16,13 +16,5 @@ The AC/DC Power Converter Calculator is a web-based tool designed to help users 
 - This selection is handled by a dropdown menu in the form.
 - Depending on the user's choice, the appropriate input fields (either for AC or DC parameters) are displayed.
 
-## Screenshots :-
 
-### Home Page
-![image](https://github.com/user-attachments/assets/bec7aa25-9c03-4376-874d-a72748a4e597)
 
-### AC to DC
-![image](https://github.com/user-attachments/assets/57a0a7ca-e63e-4787-95f2-02c8fc804508)
-
-### DC to AC
-![image](https://github.com/user-attachments/assets/385acec9-4942-419d-b89d-aba0a3888158)

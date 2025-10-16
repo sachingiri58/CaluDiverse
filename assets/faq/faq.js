@@ -16,12 +16,9 @@ const faq = [
     },
     {
         question: "How can I access the live project?",
-        answer: 'The live project is accessible at <a href="https://calcdiverse.netlify.app/" target="_blank">CalcDiverse</a>',
+        answer: 'The live project is accessible at <a href="" target="_blank">CalcDiverse</a>',
     },
-    {
-        question: "How can I get started with contributing to CalcDiverse?",
-        answer: 'To contribute, you can fork the repository, clone it to your local system, and open the `index.html` file in your browser. Detailed contribution steps are provided in the "Getting Started" section.',
-    },
+    
     {
         question: "What should I do if I find a bug or want to add a feature?",
         answer: 'You can raise an issue, and after it\'s assigned to you, you can proceed to make the changes. Follow the steps outlined in the "Getting Started" section for contributing.',
@@ -44,7 +41,7 @@ const faq = [
     },
     {
         question: "Who is the Project Admin for CalcDiverse?",
-        answer: "The Project Admin for CalcDiverse is Rakesh Roshan.",
+        answer: "The Project Admin for CalcDiverse is Sachin Giri.",
     },
     {
         question: "Can anyone contribute to CalcDiverse?",

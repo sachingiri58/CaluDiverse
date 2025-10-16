@@ -70,8 +70,6 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 ![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/749a318e-fe90-4ba1-bfd2-4d18c1d97be6)<br><br>
 <h3>About Page :-</h3>
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/11fff9d4-0069-441e-8450-95cc7b95cddf)<br><br>
-<h3>Contributors Page :-</h3>
 
 ![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/f866c372-9b21-428e-a9b1-41b7b8907521)<br><br>
 <h3>FAQ Page :-</h3>

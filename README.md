@@ -50,7 +50,7 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 ![image](./assets/images/Home.png)<br><br>
 <h3>Home/Main Page :-</h3>
 
-![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/02b2c6ae-663c-42c0-84f9-f5fe449423f9)<br><br>
+![image](./assets/images/calculator.png)<br><br>
 <h3>Calculators Page :-</h3>
 
 ![image](./assets/images/about.png)<br><br>
@@ -138,19 +138,6 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <h2>This repo has been part of the following Open Source Programs🥳</h2>
 
 <table>
-
-<tr>
-<td align="center">
-<a href="https://iwoc3.live/"><img src="https://github.com/user-attachments/assets/31929aa2-68c1-4621-9a25-85cd2b5a9616" height="140px" width="140px" alt="IWOC2025"></a><br><sub><b>IWOC 2k25</b></sub>
-</td>
-<td align="center">
-<a href="https://www.socialwinterofcode.com/"><img src="" height="140px" width="180px" alt="SWOC2025"></a><br><sub><b>SWOC 2k25</b></sub>
-</td>
-</tr>
-
-<tr>
-
-
 
 
 </table>

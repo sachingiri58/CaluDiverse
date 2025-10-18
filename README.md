@@ -49,11 +49,11 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 
 
 <h3>Home/Main Page :-</h3>
-![image](./assets/images/Home.png "Home Page")<br><br>
+![Home](./assets/images/Home.png "Home Page")<br><br>
 
 
 <h3>Calculators Page :-</h3>
-![image](./assets/images/calculator.png)<br><br>
+![Calculators](./assets/images/calculator.png)<br><br>
 
 
 <h3>About Page :-</h3>

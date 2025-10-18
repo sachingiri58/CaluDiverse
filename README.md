@@ -47,22 +47,25 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 <h3>Live Project --> (https://calcdiverse.netlify.app)</h3>
 
 
-![image](./assets/images/Home.png)<br><br>
+
 <h3>Home/Main Page :-</h3>
+![image](./assets/images/Home.png)<br><br>
 
-![image](./assets/images/calculator.png)<br><br>
+
 <h3>Calculators Page :-</h3>
+![image](./assets/images/calculator.png)<br><br>
 
-![image](./assets/images/about.png)<br><br>
+
 <h3>About Page :-</h3>
+![image](./assets/images/about.png)<br><br>
 
 
-![image](![image](./assets/images/FAQ.png)<br><br>)<br><br>
+
 <h3>FAQ Page :-</h3>
+![image](![image](./assets/images/FAQ.png)<br><br>
 
-![image](![image](./assets/images/contact.png)<br><br>)<br><br>
+
 <h3>Contact Page :-</h3>
-
 ![image](![image](./assets/images/contact.png)
 <br><br>
 <p align="right">(<a href="#top">back to top</a>)</p>

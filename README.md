@@ -44,7 +44,7 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 
 <h2>Overview⭐</h2>
 
-<h3>Live Project --> (https://calcdiverse.netlify.app)</h3>
+<h3> --> </h3>
 
 
 

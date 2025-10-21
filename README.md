@@ -75,7 +75,7 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 git clone https://github.com/<your-github-username>/CalcDiverse.git
 ```
 - Open `index.html` in your browser.
-- View the [Live Project](" ") here.
+- View the [Live Project](" https://calu-diverse.vercel.app/") here.
 - Raise an issue if you find a bug or add a feature.
 - Wait for the issue to be assigned and proceed only after the issue is assigned to you.
 - Add your codes :-
